@@ -8,7 +8,7 @@
 //  Output          :   Integer
 //  Description     :   Performs addition
 //  Date            :   04/10/2026
-//  Author          :   Piyush Manohar Khairnar
+//  Author          :   Shekhar Nannaware
 //
 ///////////////////////////////////////////////////
 
